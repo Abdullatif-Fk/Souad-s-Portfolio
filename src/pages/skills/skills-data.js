@@ -27,30 +27,6 @@ import L_PYTHON from "../../assets/img/skills/python.svg";
 export const skills = {
   frontend: [
     {
-      link: "https://en.wikipedia.org/wiki/HTML5",
-      imgAltText: "HTML 5",
-      imgSrc: L_HTML5,
-      skillName: "HTML5",
-    },
-    {
-      link: "https://medium.com/beginners-guide-to-mobile-web-development/whats-new-in-css-3-dcd7fa6122e1",
-      imgAltText: "CSS 3",
-      imgSrc: L_CSS3,
-      skillName: "CSS3",
-    },
-    {
-      link: "https://www.javascript.com/",
-      imgAltText: "JavaScript",
-      imgSrc: L_JAVASCRIPT,
-      skillName: "JavaScript",
-    },
-    {
-      link: "https://sass-lang.com/",
-      imgAltText: "Sass",
-      imgSrc: L_SASS,
-      skillName: "Sass",
-    },
-    {
       link: "https://getbootstrap.com/",
       imgAltText: "Bootstrap",
       imgSrc: L_BOOTSTRAP,

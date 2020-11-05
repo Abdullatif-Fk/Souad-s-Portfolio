@@ -168,13 +168,13 @@ const TimeLine = () => {
                     <Accordion.Collapse eventKey="0" className="text-left">
                       <Card.Body>
                         <strong>Description:</strong> This app calculates Tip for the amount entered and percentage of tip to be given.
-                        It uses MERN stack build to acomplish the same.
+                        It uses MERN stack build to accomplish the same.
                         <hr />
                         <strong>Features:</strong>
                         <ul className="list-styles pt-1">
-                          <li>Enter amount upto your desire</li>
+                          <li>Enter desired amount</li>
                           <li>Real-time API calls with Backend features</li>
-                          <li>Styled with  Material-UI</li>
+                          <li>Styled with Material-UI</li>
                         </ul>
                         <hr />
                         <strong>Tech used:</strong>

@@ -13,7 +13,7 @@ import "./skills.styles.css";
 const Skills = () => {
   return (
     <div className="pt-3 pb-3" id="skills">
-      <h1 className="text-center font-details-b pb-4">TECH SKILLS</h1>
+      <h1 className="text-center font-details-b pb-4">My Skill Set</h1>
       <CardDeck>
         <Row className="d-flex justify-content-around">
           {/* Frontend */}
@@ -109,7 +109,7 @@ const Skills = () => {
             </Card>
             {/* Version Control */}
 
-            <Card className="focus mt-2 mb-2">
+            {/* <Card className="focus mt-2 mb-2">
               <Card.Body>
                 <Card.Title className="text-center  card-title">Version Control</Card.Title>
                 <hr />
@@ -121,7 +121,7 @@ const Skills = () => {
                   </span>
                 </Card.Text>
               </Card.Body>
-            </Card>
+            </Card> */}
           </Col>
         </Row>
       </CardDeck>
